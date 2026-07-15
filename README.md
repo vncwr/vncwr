@@ -13,9 +13,9 @@ Please contact me at pradasvince@gmail.com
 ![Repo Traffic Stats](repo_traffic_chart.svg)
 
 ##
-[![Vince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1vxw&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vncwr&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vxw&layout=compact&hide=html,css&bg_color=293036&card_width=1000&size_weight=1&text_color=ffffff"& />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vncwr&layout=compact&hide=html,css&bg_color=293036&card_width=1000&size_weight=1&text_color=ffffff"& />
 </p>
