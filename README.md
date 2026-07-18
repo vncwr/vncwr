@@ -2,7 +2,7 @@
 
 DEV — **TypeScript · React · Node.js · Tailwind**. CS student at NEMSU, freelancing since 2024.
 
-**What I build:** web apps, REST APIs, dashboards, automation/scrapers, and chatbots. Recent work includes a tournament registration platform for a Moonton Games esports event (thousands of concurrent users) and a full-stack e-learning platform used daily by my university.
+**What I build:** web apps, REST APIs, dashboards, automation/scrapers, and chatbots. Recent work includes a tournament registration platform for a Moonton Games esports event (thousands of concurrent users) and a full-stack e-learning platform for my university.
 
 [vincewarrenpradas.dev](https://vincewarrenpradas.dev) · vincepradas.business@gmail.com
 
