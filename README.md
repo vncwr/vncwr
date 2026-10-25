@@ -1,6 +1,6 @@
 # Vince Warren Pradas
 
-DEV — **TypeScript · React · Node.js · Tailwind**. CS student at NEMSU.
+DEV — **TypeScript · React · Node.js · GO · Tailwind**. CS student at NEMSU.
 
 [vincewarrenpradas.dev](https://vincewarrenpradas.dev) · vincepradas.business@gmail.com
 
