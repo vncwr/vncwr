@@ -1,4 +1,4 @@
-# Vince Warren Pradas
+# VNC WR
 
 DEV — **TypeScript · React · Node.js · GO · Tailwind**. CS student at NEMSU.
 
